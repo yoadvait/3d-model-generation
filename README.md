@@ -82,5 +82,3 @@ For text prompts, the approach is:
   - Better detail preservation
   - Support for multiple objects in a single image
 
----
-Answer from Perplexity: pplx.ai/share
